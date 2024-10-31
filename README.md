@@ -36,3 +36,11 @@
 
 [Start from scratch with Prisma ORM using JavaScript and PostgreSQL (15 min) | Prisma Documentation](https://www.prisma.io/docs/getting-started/setup-prisma/start-from-scratch/relational-databases-node-postgresql)
 
+## その他
+
+[AWS構成図をパパッと作ろう！─ diagrams.net (draw.io) をさわってみた](https://aws.taf-jp.com/blog/61489#AWS%E6%A7%8B%E6%88%90%E5%9B%B3%E3%82%92%E3%83%91%E3%83%91%E3%83%83%E3%81%A8%E4%BD%9C%E3%82%8C%E3%82%8B_diagramsnet_drawio%E3%81%A8%E3%81%AF%EF%BC%9F)
+
+[AWSさんがワークショップの環境を用意してくれているので大声で言いふらしたい](https://qiita.com/moritalous/items/4ac5f68cc7ccabfe3788)
+
+[AWSを無料で利用する方法を実際にやってみて注意点まとめてみた。](https://note.com/mc_kurita/n/n6d93b62fee28)
+
